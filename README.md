@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# Decentralized BuyMeACoffee
+[Working link](https://buymeacoffee-solidity-defi-tipping-app.rizulthakur1.repl.co/)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+A project to develop and deploy a decentralized ”Buy Me a Coffee” smart contract that enables
+visitors to send ETH as tips and leave messages using Alchemy, Hardhat and Metamask. The
+working project is uploaded to Replit.
